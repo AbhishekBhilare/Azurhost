@@ -1,6 +1,6 @@
 .mainContainer{
     position: absolute;
-    background-color: bisque;
+    background-color: rgb(208, 255, 196);
     border: 1px solid black;
     height: 1200px;
     width: 1000px;
@@ -9,7 +9,7 @@
     
 }
 .backgroundColour{
-    background-color:rgb(255, 233, 188);
+    background-color:rgb(209, 255, 188);
 }
 .center{
     text-align: center;
@@ -17,7 +17,7 @@
 
 /* navigation bar */
 .topnav {
-    background-color: rgb(232, 208, 90);
+    background-color: rgb(90, 232, 90);
     overflow: hidden;
     position: relative;
     left: 30%;
@@ -132,7 +132,7 @@ h1 {
     margin: 0%;
     border: 2px solid black;
     color: black;
-    background-color:wheat ;
+    background-color:rgb(179, 245, 213) ;
     border-radius: 5px;
     margin: 10px;
   
